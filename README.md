@@ -25,10 +25,11 @@ Here are some ideas to get you started:
   </div>
 </div> -->
 <div style="text-align: left;">
-<!--   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  -->
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
   <br> 
   <div align= "center">
-    <h2>FrontEnd Tech Stack</h2>
+<!--     <h2> 🛠️ Tech Stacks </h2> <br>  -->
+    <h3>FrontEnd Tech Stack</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white">
     <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white">
-    <h2>BackEnd & DB Tech Stack</h2>
+    <h3>BackEnd & DB Tech Stack</h3>
     <br/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-    <h2>ETC Tech Stack</h2>
+    <h3>ETC Tech Stack</h3>
     <br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
