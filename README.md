@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuosm9390&hide=contribs,prs&show_icons=true&theme=테마)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tuosm9390)](https://velog.io/@tuosm9390/posts)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tuosm9390&theme=highcontrast)](https://git.io/streak-stats)
+
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
